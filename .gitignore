@@ -1,0 +1,8 @@
+
+hs_err_pid*
+
+*.idea
+out
+.idea
+
+*.iml
